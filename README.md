@@ -1,4 +1,4 @@
-# kodluyoruz-first-homework
+# Kodluyoruz Javascript First Homework
 Girişte isminizi isteyip sonra bu ismi karşılama ekranına yerleştirerek o anki saati ve günü gösteren bir ekran.
 
 ## Screenshot of App
